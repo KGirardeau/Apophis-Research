@@ -4,7 +4,9 @@ clc; clear all;
 
 % load the data
 %requires Data_Apophis folder
-cd('C:/Users/tewki/Downloads/Summer Research/Data_Apophis');
+% cd('C:/Users/tewki/Downloads/Summer Research/Data_Apophis');
+cd('Data_Apophis');
+
 %vertices = load('shape_v.dat');
 %faces = load('shape_f.dat');
 %faces_x = faces(:,1);
