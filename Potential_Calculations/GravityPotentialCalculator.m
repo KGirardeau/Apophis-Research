@@ -99,3 +99,4 @@ du = [du_x, du_y, du_z];
 pseudo = -0.5 * w^2 .* (x.^2 + y.^2) - potential;
 
 end
+
