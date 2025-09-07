@@ -34,4 +34,5 @@ xlabel('X(Km)','FontSize',8);
 ylabel('Y(Km)','FontSize',8);
 zlabel('V(J)','FontSize',8);
 
+
 print('equilibrium_xy_1layer','-djpeg');
